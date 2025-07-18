@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="transaction" pacingEnd="0" pacingMode="MODE_PACING_SIMPLE"
+    pacingStart="0" pacingValue="1" slaProfileEnabled="false"
+    uid="6383b01b-1c71-4869-a189-4717df20df89" weightsEnabled="false">
+    <weighted-embedded-action uid="eb6eae13-2895-4034-a6d0-7d9bd57a9631"/>
+</basic-logical-action-container>
